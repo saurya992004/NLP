@@ -1,0 +1,6 @@
+data/raw/
+models/
+embeddings/
+*.csv
+*.zip
+*.pkl
